@@ -5,7 +5,7 @@ This project is a kitchen management system where users can manage cooks, dishes
 
 Other developers can easily extend the project by adding features such as more detailed user roles (e.g., head chefs), new categories for dishes, or additional functionalities like dish ratings or ingredient tracking.
 
-## [Click here to check out](https://restaurant-kitchen-service-cvp4.onrender.com/)
+## [Click here to check out](https://restaurant-kitchen-service-cvp4.onrender.com/) (Please be patient, the project may take about a minute to launch due to limitations of the free version of the platform)
 #### To log in into BUFET Website you can use:
 Adm1n_Entry
 ####
